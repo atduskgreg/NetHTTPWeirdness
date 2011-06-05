@@ -20,9 +20,9 @@
 		370C343B139B2E3D0075CD30 /* NetHttpWeirdness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetHttpWeirdness.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		370C343F139B2E3D0075CD30 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		370C3441139B2E3D0075CD30 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = System/Library/Frameworks/MacRuby.framework; sourceTree = SDKROOT; };
-		370C3446139B2E3D0075CD30 /* NetHttpWeirdness-Info.plist */ = {isa = PBXFileReference; path = "NetHttpWeirdness-Info.plist"; sourceTree = "<group>"; };
+		370C3446139B2E3D0075CD30 /* NetHttpWeirdness-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "NetHttpWeirdness-Info.plist"; sourceTree = "<group>"; };
 		370C3448139B2E3D0075CD30 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		370C344A139B2E3D0075CD30 /* NetHttpWeirdness-Prefix.pch */ = {isa = PBXFileReference; path = "NetHttpWeirdness-Prefix.pch"; sourceTree = "<group>"; };
+		370C344A139B2E3D0075CD30 /* NetHttpWeirdness-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NetHttpWeirdness-Prefix.pch"; sourceTree = "<group>"; };
 		370C344B139B2E3D0075CD30 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		370C344F139B2E3D0075CD30 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		370C3452139B2E3D0075CD30 /* rb_main.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
